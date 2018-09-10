@@ -1,0 +1,14 @@
+uuid: 11701efe-b488-412d-a904-ba3599d679e6
+name: nicklewis-photo
+mail: nickeblewis@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
