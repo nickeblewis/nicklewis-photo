@@ -6,4 +6,4 @@ Feature: Confirm that configuration was applied
   @api
   Scenario: Add a basic page
     Given I am on "/"
-    Then I should see "Making the world amazing"
+    Then I should see "Making gelato for the whole world"
